@@ -13,8 +13,5 @@ class multiplication{
                 System.out.println(n+" x "+i+" = "+(n*i));
             }
         }        
-
     }
-
-
 }
